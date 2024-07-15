@@ -23,6 +23,7 @@ To use this project locally:
 ## Additional Infomation
 
 This project is still under development and is still being updated.
+The different pages are still to be added.
 
 ### Socials 
 
