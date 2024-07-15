@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains code for a my [online portfolio](www.someprofoundname.com). 
+This repository contains code for a my [online portfolio](https://www.someprofoundname.com). 
 
 ## Technologies Used
 
